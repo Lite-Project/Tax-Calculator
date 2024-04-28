@@ -19,16 +19,20 @@ It is recommended that you collect your Gross Taxable Income and Paid Taxes from
 Enter your correct ACC earners' levy rates
 
 
-1 April 2024 to 31 March 2025 = 1.60
+1 April 2024 to 31 March 2025 = 1.60%
 
 
-1 April 2023 to 31 March 2024 = 1.53
+1 April 2023 to 31 March 2024 = 1.53%
 
 
-1 April 2022 to 31 March 2023 = 1.46
+1 April 2022 to 31 March 2023 = 1.46%
 
 
-1 April 2021 to 31 March 2022 = 1.39
+1 April 2021 to 31 March 2022 = 1.39%
+```ps
+$ACC = 1.46
+```
+This is an example for 1 April 2022 to 31 March 2023 tax year. (This is done on Line 8)
 
 
 Information collected from [ACC IRD](https://www.ird.govt.nz/income-tax/income-tax-for-individuals/acc-clients-and-carers/acc-earners-levy-rates)
