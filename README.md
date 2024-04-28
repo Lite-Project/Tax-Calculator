@@ -38,10 +38,10 @@ This is an example for 1 April 2022 to 31 March 2023 tax year. (This is done on 
 Information collected from [ACC IRD](https://www.ird.govt.nz/income-tax/income-tax-for-individuals/acc-clients-and-carers/acc-earners-levy-rates)
 
 ### KiwiSaver Scheme
-Adjust your KiwiSaver percentage to suit your needs. The default 3% is set because employers match this minimum, ensuring minimal impact on your post-tax income. Contributing more than 3% may affect your income unless matched by your employer. To adjust this, change Line 9 eg; 
+Adjust your KiwiSaver percentage to suit your needs. The default 3% is set because employers match this minimum, ensuring minimal impact on your post-tax income. Contributing more than 3% may affect your income unless matched by your employer.
 ```ps
 $kiwi = 4
 ```
- This is if your kiwisaver scheme is 4%
+ This is an example for Kiwisaver scheme is 4% (This is done on Line 9)
 
 
