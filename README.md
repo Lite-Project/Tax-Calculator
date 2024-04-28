@@ -11,7 +11,7 @@ Ready for a quick peek at your potential tax refund? Our calculator provides est
 # Tips for use
 >[!WARNING]
 >Does not consider student loans or personally filed IRD refund
->Differences may arise due to rounding, and Gross Taxable Income includes bank interest.
+>Differences may arise due to rounding, and Gross Taxable Income including both Income and Bank Interest.
 
 It is recommended that you collect your Gross Taxable Income and Paid Taxes from [IRD](https://ird.govt.nz/) for more accurate results.
 
