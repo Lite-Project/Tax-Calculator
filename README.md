@@ -9,9 +9,9 @@ Ready for a quick peek at your potential tax refund? Our calculator provides est
 3. Use it.
 
 # Tips for use
-[!WARNING]
-Does not consider student loans or personally filed IRD refund
-Differences may arise due to rounding, and Gross Taxable Income includes bank interest.
+>[!WARNING]
+>Does not consider student loans or personally filed IRD refund
+>Differences may arise due to rounding, and Gross Taxable Income includes bank interest.
 
 It is recommended that you collect your Gross Taxable Income and Paid Taxes from [IRD](https://ird.govt.nz/) for more accurate results.
 
@@ -34,6 +34,10 @@ Enter your correct ACC earners' levy rates
 Information collected from [ACC IRD](https://www.ird.govt.nz/income-tax/income-tax-for-individuals/acc-clients-and-carers/acc-earners-levy-rates)
 
 ### KiwiSaver Scheme
-Adjust your KiwiSaver percentage to suit your needs. The default 3% is set because employers match this minimum, ensuring minimal impact on your post-tax income. Contributing more than 3% may affect your income unless matched by your employer. To adjust this, change Line 9 eg; '$kiwi = 4' This is if your kiwisaver scheme is 4%
+Adjust your KiwiSaver percentage to suit your needs. The default 3% is set because employers match this minimum, ensuring minimal impact on your post-tax income. Contributing more than 3% may affect your income unless matched by your employer. To adjust this, change Line 9 eg; 
+```ps
+$kiwi = 4
+```
+ This is if your kiwisaver scheme is 4%
 
 
